@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:15:26:41 +0800] "GET /user HTTP/1.1" 404 959 http-bio-8080-exec-1 65
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:15:26:41 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 1
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:15:27:11 +0800] "GET /goods/findBrands.do HTTP/1.1" 200 - http-bio-8080-exec-4 2855
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:15:29:45 +0800] "GET /goods/findBrands.do HTTP/1.1" 500 25400 http-bio-8080-exec-1 2588
+0:0:0:0:0:0:0:1 - - [19/Mar/2019:15:34:07 +0800] "GET /goods/findBrands.do HTTP/1.1" 200 908 http-bio-8080-exec-1 3603
